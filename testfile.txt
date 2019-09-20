@@ -6,3 +6,6 @@ A new line
 
 New feature
 New line on new branch
+Another line on master
+
+Fix on master
