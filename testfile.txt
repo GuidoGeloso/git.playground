@@ -5,3 +5,4 @@ New line
 Another new line
 
 New feature
+New line on new branch
