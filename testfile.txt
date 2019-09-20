@@ -2,7 +2,7 @@ My test file
 
 New line
 
-Another new line
+A new line
 
 New feature
 New line on new branch
