@@ -3,3 +3,5 @@ My test file
 New line
 
 Another new line
+
+New feature
