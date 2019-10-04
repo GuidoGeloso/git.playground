@@ -9,3 +9,12 @@ New line on new branch
 Another line on master
 
 Fix on master
+Another new line
+
+New feature
+New line on new branch
+
+altro test
+
+si mi mancava questo
+
